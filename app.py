@@ -26,7 +26,7 @@ else:
 
 plt.rcParams['axes.unicode_minus'] = False
 
-st.title("📊 2026 歡慶端午 2330 股市分析專案")
+st.title("📊 2026 歡慶中秋 2330 股市分析專案")
 st.markdown("""
 本專案演示了從資料獲取、多維度技術指標計算，到專業級 **6 大指標圖表（均線/布林帶、OBV、KDJ、MACD、RSI、BIAS）** 排版的完整流程。
 """)
